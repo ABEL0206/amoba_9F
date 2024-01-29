@@ -1,0 +1,2 @@
+Amőba játékkészítése HTML és CSS felhasználásával.
+Készítette: Wágner Ábel
